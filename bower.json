@@ -1,0 +1,17 @@
+{
+  "name": "testrol",
+  "description": "test for publish package/export of several functions/gulp",
+  "main": "dist/index.cjs.js",
+  "authors": [
+    "Vialle Charles-Hugo <charly.vialle@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
